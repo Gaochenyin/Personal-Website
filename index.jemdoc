@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter, menu{MENU}{index.html}
 = Chenyin Gao
 
 ~~~

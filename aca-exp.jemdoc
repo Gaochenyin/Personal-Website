@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{aca-exp.html}
+# jemdoc: nofooter, menu{MENU}{aca-exp.html}
 = Academic Experience
 
 
