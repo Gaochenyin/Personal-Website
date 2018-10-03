@@ -1,4 +1,4 @@
-# jemdoc: nofooter, menu{MENU}{index.html}
+# jemdoc: nofooter{main.html}
 = Chenyin Gao
 
 ~~~
@@ -8,6 +8,32 @@
 == About
 I am a undergraduate student in [http://math.sysu.edu.cn/ Dept. of Statistics] at [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University ], a member of Southern China Center for Statistical Science, working on quantitative trading and statistical learning.
 
+
+== Honors
+- National Scholarship, School of Mathematics, Sun Yat-sen University, 2018
+- Honorable Mentions, Mathematical Contest in Modeling, COMAP, 2018
+- 1st Prize, China Undergraduate Mathematical Contest in Modeling, CSIAM, 2018
+- 2nd Prize, The Chinese Mathematics Competitions (CMC), China Mathematical Society, 2017
+- Merit Scholarship, School of Mathematics, Sun Yat-sen University, 2017
+
+== Academic Experience
+- Research Assistant, Quantitative Trading Dept, Southern China Center for Statistical Science, SYSU, China, 12\/2017 - present
+
+- "Generalized Linear Mixed Model(GLMM): Monte Carlo EM (MCEM) Method to Derive Maximum Likelihood Estimates (MLE)",  advised by Prof.Hui Huang, Houston, SYSU, China, 2017
+
+- Research Assistant, National Natural Science Foundation of China (NSFC) Program (No. 71701218), SYSU, China, 10\/2017 - 09\/2018
+
+
+== Internship & Training
+- Member, FinTech Agency Customers Department, China Merchants Bank, Shenzhen, supervised by
+Ms.Yang Gao, Executive Manager, 2018 
+
+
+- Analyst, Risk Advisory (RA), Deloitte Enterprise Consulting (Shanghai) Co., Ltd., Guangzhou, supervised
+by Ms.Jia Suo, Financial Service Industry (FSI), 11\/2017 - 03\/2018
+
+- Leader, International Finance Elite Program , Global Financial Analysis, Hongkong, supervised by
+Mr.Corvus YIP, Investment Services, 2017
 
 == Contact
 Department of Statistics \n
