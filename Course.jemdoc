@@ -18,7 +18,7 @@ Provide some core major and minor coures outlines/syllabi in [http://www.sysu.ed
 : {/*Mathematical Statistics*/}*Term 1.* Statistical inference, decision theory; point and interval estimation, tests of hypotheses; Neyman-Pearson theory. Bayesian analysis; maximum likelihood, large sample theory.
 
  
-: {/*Advanced Computer Language Programming*/}*Term 1.* Introduction to the modern programming software: object-oriented design, decomposition, encapsulation, abstraction, and testing. Emphasis is on good programming style and the built-in facilities of C/C++.
+: {/*Advanced Computer Language Programming*/}*Term 1.* Introduction to the modern programming software: object-oriented design, decomposition, encapsulation, abstraction, and testing. Emphasis is on good programming style and the built-in facilities of C/C\+\+.
 
 
 : {/*Mathematical Experiments and Mathematical Software*/}*Term 1.* Introduction to the engineering of computer applications in Matlab, emphasizing modern software engineering principles: decomposition, abstraction, matrix computation and visulization.
