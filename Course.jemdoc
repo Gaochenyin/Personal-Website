@@ -20,6 +20,8 @@ Provide some core major and minor coures outlines/syllabi in [http://www.sysu.ed
  
 : {/*Applied Regression Analysis*/}*Term 1.* Constructing features from predictors. Geometry and algebra of least squares: subspaces, projections, normal equations, orthogonality, rank deficiency. Interpreting coefficients. Collinearity. Dependence and heteroscedasticity. Fits and the hat matrix. Model diagnostics. Model selection, Cp/AIC and crossvalidation, stepwise, lasso. Multiple comparisons. ANOVA, fixed and random effects. 
 
+: {/*Computational Statistics*/}*Term 1.* Kernel methods. Generalized additive models. Kernel smoothing. Gaussian mixtures and the EM algorithm. basic sampler constructions (metropolis, Gibbs sampler, data augmentation, hybrid Monte Carlo)
+
 : {/*Advanced Computer Language Programming*/}*Term 1.* Introduction to the modern programming software: object-oriented design, decomposition, encapsulation, abstraction, and testing. Emphasis is on good programming style and the built-in facilities of C/C\+\+.
 
 
