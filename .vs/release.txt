@@ -1,0 +1,78 @@
+﻿Release Information
+Microsoft Drivers 3.2 for PHP for SQL Server
+March 2015
+
+
+INTRODUCTION
+------------
+This file contains late-breaking or other important information
+that supplements the Microsoft Drivers for PHP for SQL Server
+documentation. You should read this file completely before 
+installing the PHP driver.
+
+Your feedback is very important to us and we will strive
+to respond to your feedback in a timely manner. For information
+about providing feedback by using the PHP driver blogs and online
+forums, see the Microsoft Drivers for PHP for SQL Server page at
+http://msdn.microsoft.com/en-us/sqlserver/cc299381.aspx.
+
+
+INSTALLATION
+------------
+Instructions for installing the PHP driver are located in SQLSRV_Readme.htm.
+Refer to that file for information about installing the PHP driver.
+
+SUPPORTED OPERATING SYSTEMS
+---------------------------
+The Microsoft Drivers for PHP for SQL Server supports the following operating systems:
+	o Windows Server 2008 R2 SP1 
+	o Windows Vista SP2 
+	o Windows Server 2008 SP2 
+	o Windows 7 SP1
+	o Windows Server 2012
+	o Windows Server 2012 R2
+	o Windows 8
+	o Windows 8.1
+
+The list above is an example of some of the supported operating systems.
+
+RELEASE CONTENTS
+----------------
+The Microsoft Drivers for PHP for SQL Server executable zip file
+unpacks the following files in the specified locations, relative
+to the selected installation directory:
+
+<installation directory>\PHP Drivers License Terms.rtf
+<installation directory>\release.txt
+<installation directory>\SQLSRV_Readme.htm
+<installation directory>\SQLSRV_ThirdPartyNotices.rtf
+<installation directory>\php_sqlsrv_54_nts.dll
+<installation directory>\php_pdo_sqlsrv_54_nts.dll
+<installation directory>\php_sqlsrv_54_ts.dll
+<installation directory>\php_pdo_sqlsrv_54.ts.dll
+<installation directory>\php_sqlsrv_55_nts.dll
+<installation directory>\php_pdo_sqlsrv_55_nts.dll
+<installation directory>\php_sqlsrv_55_ts.dll
+<installation directory>\php_pdo_sqlsrv_55_ts.dll
+<installation directory>\php_sqlsrv_56_nts.dll
+<installation directory>\php_pdo_sqlsrv_56_nts.dll
+<installation directory>\php_sqlsrv_56_ts.dll
+<installation directory>\php_pdo_sqlsrv_56_ts.dll
+
+CHANGE LIST
+-----------
+Changes from 3.1 to 3.2:
+
+4002916 : Upgrade PHP Driver to work with PHP 5.6
+4049306	: Fix Github issue #40 -- 'PDOException' Function sequence error
+
+Changes from 3.0 to 3.1:
+
+2459651 : Update to PHP 5.5
+2881920 : Crash in php_pdo_sqlsrv!`anonymous namespace'::odbc_get_diag_rec
+
+KNOWN ISSUES
+------------
+3513544: Performance degradation when using Microsoft Drivers 3.1 for PHP for SQL Server (and later) with Windows 7/Windows Server 2008 R2 and previous versions.
+		 Clients connecting to supported versions of Microsoft SQL Server may notice decreased performance when opening and closing connections
+		 in a Windows 7/Windows Server 2008 R2 environment.  The recommended course of action is to upgrade to Windows 8/Windows Server 2012 or later.

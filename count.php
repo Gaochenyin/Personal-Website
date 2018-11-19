@@ -1,4 +1,4 @@
-<?php  
+<php  
     $aid  = isset( $_GET['aid'] )?$_GET['aid']:'';  
     $t = isset( $_GET['t'] )?$_GET['t']:'';  
     if(intval( $aid )){  
@@ -11,5 +11,5 @@
           mysql_db_query('gaochenyin',$sql,$conn);  
         }  
     }  
-?>
+>
 
