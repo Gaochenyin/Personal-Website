@@ -1,4 +1,4 @@
-# jemdoc: nofooter, menu{MENU}{Course.html}, addcss{example.css}
+# jemdoc: nofooter, menu{MENU}{Course.html}, addcss{template.css}
 
 = Core Courses
 
