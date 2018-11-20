@@ -1,4 +1,4 @@
-# jemdoc: nofooter, menu{MENU}{Chenyin_Gao.html}, addcss{table.css}
+# jemdoc: nofooter, menu{MENU}{Chenyin_Gao.html}, addcss{example.css}
 
 
 ~~~
@@ -15,12 +15,8 @@ Southern China Center for Statistical Science.
 [gaochy5@mail2.sysu.edu.cn gaochy5@mail2.sysu.edu.cn] \n
 
 
-Department of Statistics \n
-Sun Yat-sen University \n 
-No.135, XinGangXi Road \n
-GuangZhou, GuangDong, China \n
 
-== Research
+== Research Interests
 - Quantitative trading
 - Computational statistics and Bayesian analysis.
 
