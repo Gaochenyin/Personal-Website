@@ -1101,3 +1101,32 @@ td.leftcell div.infoblock {
     width: 100%;
     transition: none;
 }
+
+
+.page-title {
+    padding: 20px 0 10px 0;
+}
+
+.page-title__title {
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+@media (min-width: 320px) {
+    .page-title__title {
+        font-size: calc(2.27273vw + 22.72727px);
+    }
+}
+
+@media (min-width: 1200px) {
+    .page-title__title {
+        font-size: 25px;
+        font-family: 'fontAwesome'
+    }
+}
+
+.page-title__text {
+    font-size: 16px;
+    color: #a3a3a3;
+}
