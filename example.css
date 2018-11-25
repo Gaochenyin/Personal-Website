@@ -1246,3 +1246,62 @@ h1, h2, h3, h4, h5, h6 {
 	color: #FDFFFA;
 }
 
+/* 7. form_item
+--------------------------------------------------------------------------------*/
+
+.form-item {
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+.form__label {
+    display: block;
+    font-family: "Montserrat", sans-serif;
+    text-transform: capitalize;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.form-wrapper {
+    margin: 0 -15px;
+    overflow: hidden;
+}
+
+.form-wrapper .form-item {
+    padding: 0 15px;
+}
+
+.form-item-btn-center {
+    text-align: center;
+}
+
+@media (min-width: 769px) {
+    .form-item--half {
+        width: 50%;
+    }
+
+    .form-item-btn-right {
+        text-align: right;
+    }
+}
+.md-btn {
+    display: inline-block;
+    border: 1px solid #ebebeb;
+    box-shadow: none;
+    outline: none;
+    margin: 0;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px 20px;
+    color: #000;
+    background-color: #eee;
+    transition: all .3s ease;
+    text-decoration: none;
+    vertical-align: middle;
+    overflow: hidden;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
